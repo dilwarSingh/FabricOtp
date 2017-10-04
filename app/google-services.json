@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "177944478331",
+    "firebase_url": "https://fabricopt.firebaseio.com",
+    "project_id": "fabricopt",
+    "storage_bucket": "fabricopt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177944478331:android:bdbc6f0598c4cf2d",
+        "android_client_info": {
+          "package_name": "com.example.vibrant1.fabricotp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177944478331-v6b60utd90c7mqv32s76dvrbood1rtcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibrant1.fabricotp",
+            "certificate_hash": "1e1e7c2c7631215f51bcb4c032319d894d6a17d9"
+          }
+        },
+        {
+          "client_id": "177944478331-o1do09v1150ud62rr8guf2vr6icgnmmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5uIeeeJUBv7CcKMDhdOogFHcVHLZJrY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177944478331-o1do09v1150ud62rr8guf2vr6icgnmmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
